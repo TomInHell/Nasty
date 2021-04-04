@@ -21,7 +21,7 @@ namespace server
             week = new List<Weekday>();
             init_menu();
             server.Start();
-            Console.WriteLine("Сервер запущен!");
+            Console.WriteLine("Сервер не запущен!");
 
             while (true)
             {
