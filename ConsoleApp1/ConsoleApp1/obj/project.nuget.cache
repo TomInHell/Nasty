@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "MsZzMcTy1zbcrFMT0lPPfQMA7Urux8fipIBxep7wjEfso6vRQwjyRiOOnjFq15wnILDRzle5NmFziWNjkuSMpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\koroc\\Desktop\\папка\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\koroc\\.nuget\\packages\\ikvm\\8.1.5717\\ikvm.8.1.5717.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"IKVM 8.1.5717\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \".NETCoreApp,Version=v3.1\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "IKVM",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
