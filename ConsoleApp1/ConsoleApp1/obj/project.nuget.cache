@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MsZzMcTy1zbcrFMT0lPPfQMA7Urux8fipIBxep7wjEfso6vRQwjyRiOOnjFq15wnILDRzle5NmFziWNjkuSMpQ==",
+  "dgSpecHash": "ddBx2z3RDtVsBUmhY0h8ypm9ub+eBcE8Y3Jb+e05d7aOBSX6Yx8fwlkWHw5Izz7qDyFXjTGmvjjuTuy8grbt7w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\koroc\\Desktop\\папка\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "C:\\Users\\koroc\\Desktop\\Nasty\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\koroc\\.nuget\\packages\\ikvm\\8.1.5717\\ikvm.8.1.5717.nupkg.sha512"
   ],

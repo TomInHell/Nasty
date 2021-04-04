@@ -11,21 +11,16 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            // Инициализация
             IPAddress localAddr = IPAddress.Parse("127.0.0.1");
             int port = 8888;
             TcpListener server = new TcpListener(localAddr, port);
-            // Запуск в работу
             server.Start();
-            // Бесконечный цикл
             while (true)
             {
                 try
                 {
-                    // Подключение клиента
                     TcpClient client = server.AcceptTcpClient();
                     NetworkStream stream = client.GetStream();
-                    // Обмен данными
                     try
                     {
                         if (stream.CanRead)
