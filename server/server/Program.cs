@@ -9,7 +9,7 @@ namespace server
     class Program
     {
         static List<Weekday> week;
-        static string[] breakfast = { "омлет", "овсянка", "кукурузные хлопья", "йогурт" };
+        static string[] breakfast = { "Рыжий", "овсянка", "кукурузные хлопья", "йогурт" };
         static string[] lunch = { "борщ", "плов", "картошка с печенью", "лапша" };
         static string[] dinner = { "рис с отварной котлетой", "рыба с овощами", "отварная говядина с картошкой", "лазанья" };
 

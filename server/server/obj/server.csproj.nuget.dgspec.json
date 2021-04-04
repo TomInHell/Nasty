@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "L:\\Учебная практика\\Сдохни или умри 3.6 3\\практика дневник питания\\server\\server\\server.csproj": {}
+    "C:\\Users\\koroc\\Desktop\\Nasty\\server\\server\\server.csproj": {}
   },
   "projects": {
-    "L:\\Учебная практика\\Сдохни или умри 3.6 3\\практика дневник питания\\server\\server\\server.csproj": {
+    "C:\\Users\\koroc\\Desktop\\Nasty\\server\\server\\server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "L:\\Учебная практика\\Сдохни или умри 3.6 3\\практика дневник питания\\server\\server\\server.csproj",
+        "projectUniqueName": "C:\\Users\\koroc\\Desktop\\Nasty\\server\\server\\server.csproj",
         "projectName": "server",
-        "projectPath": "L:\\Учебная практика\\Сдохни или умри 3.6 3\\практика дневник питания\\server\\server\\server.csproj",
+        "projectPath": "C:\\Users\\koroc\\Desktop\\Nasty\\server\\server\\server.csproj",
         "packagesPath": "C:\\Users\\koroc\\.nuget\\packages\\",
-        "outputPath": "L:\\Учебная практика\\Сдохни или умри 3.6 3\\практика дневник питания\\server\\server\\obj\\",
+        "outputPath": "C:\\Users\\koroc\\Desktop\\Nasty\\server\\server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\koroc\\AppData\\Roaming\\NuGet\\NuGet.Config",
